@@ -15,5 +15,6 @@ Sample website with plenty of files for demos
 As stated above, the main purpose is to provide simple example.
 
 ## Deployement
+This is a simple web project, deployment can be on any web
 
 ## How to contribute
