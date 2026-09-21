@@ -20,5 +20,6 @@ TEST 2
 
 ## How to contribute
 TEST
+Please fork this repository and then issue Pll Request for review.
 
 ### Copyright Git Training
