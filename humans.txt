@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    John Ero Atienza johnero.atienza@murata.com @johnero
 
 # THANKS
 
