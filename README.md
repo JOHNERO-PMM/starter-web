@@ -20,3 +20,5 @@ TEST 2
 
 ## How to contribute
 TEST
+
+### Copyright Git Training
