@@ -24,4 +24,4 @@ TEST 2
 TEST
 Please fork this repository and then issue Pll Request for review.
 
-### Copyright Git Training
+### Copyright Git Training. All rights reserved.
